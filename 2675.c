@@ -22,3 +22,5 @@ int main(void) {
 
 	return 0;
 }
+
+//fgets함수는 개행문자까지 입력받기 때문에 오류가 생긴다.
